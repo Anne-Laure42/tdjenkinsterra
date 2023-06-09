@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "anne_terraform_rg" {
-   name = "anne_tdjenkinsterra"
+   name = "anne_tdjenkinsterrabrief13"
    location = var.location
 }
 
